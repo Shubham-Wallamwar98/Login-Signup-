@@ -1,1 +1,1 @@
-Created User login & signup page using HTML, CSS, Javascript
+Created User login-signup page using HTML, CSS & Javascript
